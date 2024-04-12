@@ -5,7 +5,7 @@
 <title>Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
 <meta name="DC.title" lang="en" content="Privacy Policy">
-<meta name="description" content="Top-rated Hobart Cleaning Services for all your cleaning needs. Professional, reliable, and affordable. Book now for a spotless home or office!Professional cleaning services in Hobart. Reliable, efficient, and affordable. Your go-to company for all your cleaning needs.Professional cleaning services in Hobart. From residential to commercial, we've got you covered. Book a clean today!Top-rated cleaning contractors in Hobart providing professional and reliable services. Book now for a spotless home or office!">
+<meta name="description" content="Hobart Cleaning Services: Professional cleaning solutions for homes and businesses in Hobart. Book now for a sparkling clean space!Top-rated cleaning company in Hobart. Professional, reliable, and affordable services for homes and businesses. Book now for a spotless space!Top-rated Hobart cleaning services for homes and businesses. Professional, reliable, and affordable. Contact us for a spotless space today!Professional cleaning contractors in Hobart providing top-notch services for residential and commercial properties. Contact us today for a spotless space!">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -18,45 +18,40 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
+.b9372bcf8564ed9dc287c0642c42fe30b{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+footer *{
+font-size:16px !important;
+}
 html{
 scroll-behavior: smooth;
 }
-.w9fc5fd70c52180bf286a601c05d8b25d a,.c2e4efc8d43ecbd0f64e87996b25e0408 a{
-color:#090909!important;
-text-decoration: underline !important;
-}
-.c2e4efc8d43ecbd0f64e87996b25e0408 p,.c2e4efc8d43ecbd0f64e87996b25e0408 span,.c2e4efc8d43ecbd0f64e87996b25e0408 label{
+.y7e5e8f16bfc08a4c68f170e8799499b6 p,.y7e5e8f16bfc08a4c68f170e8799499b6 span,.y7e5e8f16bfc08a4c68f170e8799499b6 label{
 font-size:16px!important;
 }
-.navbar a{
-font-size: 17.5px!important;
-font-weight: bold;
+.nav-item{
+padding-left:8.4px;
+padding-right:7.9px;
+padding-top:4.6px;
+padding-bottom:4.5px;
+}
+.be2b9b17a07d4ede1a8b73a20806c4d66 a,.y7e5e8f16bfc08a4c68f170e8799499b6 a{
+color:#010101!important;
+text-decoration: underline !important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.td70be67d93f19d511f2be9a2895ab465{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
-.c2e4efc8d43ecbd0f64e87996b25e0408 a{
-font-size:16px;
-}
-.b4e5d4ba0d5720066ff8060b193126680:hover{
+.w51c2c685d7e6c25acebadd7ebbff6b2a:hover{
 box-shadow: 0 49.8px 49.6px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
 }
-.nav-item{
-padding-left:8px;
-padding-right:8.4px;
-padding-top:5px;
-padding-bottom:5px;
-}
-footer{
-background:#050505;
-color:#ffffff;
+.be2b9b17a07d4ede1a8b73a20806c4d66 p,.be2b9b17a07d4ede1a8b73a20806c4d66 a,.be2b9b17a07d4ede1a8b73a20806c4d66 span,.be2b9b17a07d4ede1a8b73a20806c4d66 label{
+font-size:16px!important;
 }
 ul{
 list-style: circle;
@@ -64,22 +59,27 @@ list-style: circle;
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.w9fc5fd70c52180bf286a601c05d8b25d p,.w9fc5fd70c52180bf286a601c05d8b25d a,.w9fc5fd70c52180bf286a601c05d8b25d span,.w9fc5fd70c52180bf286a601c05d8b25d label{
-font-size:16px!important;
-}
-footer *{
-font-size:16px !important;
+footer{
+background:#020202;
+color:#ffffff;
 }
 .btn-md{
-padding: 14.6px 29.6px;
+padding: 15.5px 29.8px;
 border-radius: 0;
 }
 a{
 text-decoration: none!important;
 }
+.navbar a{
+font-size: 17.6px!important;
+font-weight: bold;
+}
 .nav-link{
 color: #000000!important;
 
+}
+.y7e5e8f16bfc08a4c68f170e8799499b6 a{
+font-size:16px;
 }
 </style>
 </head>
@@ -87,16 +87,16 @@ color: #000000!important;
 <nav class="navbar navbar-expand-lg">
 <a class="navbar-brand" href="https://hobart-cleaning-services.netlify.app/index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="ml-auto d-flex align-items-center navbar-nav"><li class=" nav-item">
-<a class="nav-link z714f2005962147a0539a67b67ce97481" href="https://hobart-cleaning-services.netlify.app/index.html"  >Hobart Cleaning Services</a>
+<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="align-items-center navbar-nav ml-auto d-flex"><li class=" nav-item">
+<a class="b3168f13d74f8f95f90f5ee3e402b5f24 nav-link" href="https://hobart-cleaning-services.netlify.app/index.html"  >Hobart Cleaning Services</a>
 </li><li class=" nav-item">
-<a class="z714f2005962147a0539a67b67ce97481 nav-link" href="https://hobart-cleaning-services.netlify.app/hobart-cleaning-company.html"  >Hobart Cleaning Company</a>
+<a class="nav-link b3168f13d74f8f95f90f5ee3e402b5f24" href="https://hobart-cleaning-services.netlify.app/hobart-cleaning-company.html"  >Hobart Cleaning Company</a>
 </li><li class="nav-item ">
-<a class="z714f2005962147a0539a67b67ce97481 nav-link" href="https://hobart-cleaning-services.netlify.app/hobart-cleaning-services.html"  >Hobart Cleaning Services</a>
+<a class="b3168f13d74f8f95f90f5ee3e402b5f24 nav-link" href="https://hobart-cleaning-services.netlify.app/hobart-cleaning-services.html"  >Hobart Cleaning Services</a>
 </li><li class=" nav-item">
-<a class="nav-link z714f2005962147a0539a67b67ce97481" href="https://hobart-cleaning-services.netlify.app/cleaning-contractors-hobart.html"  >Cleaning Contractors Hobart</a>
-</li><li class="nav-item"><a class="nav-link z714f2005962147a0539a67b67ce97481" rel=nofollow href="https://hobart-cleaning-services.netlify.app/about-us.html">About Us</a>
+<a class="b3168f13d74f8f95f90f5ee3e402b5f24 nav-link" href="https://hobart-cleaning-services.netlify.app/cleaning-contractors-hobart.html"  >Cleaning Contractors Hobart</a>
+</li><li class="nav-item"><a class="b3168f13d74f8f95f90f5ee3e402b5f24 nav-link" rel=nofollow href="https://hobart-cleaning-services.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -163,12 +163,12 @@ Abels Carpet Cleaning</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
+<div class="py-4 pt-5 container" >
 <div class="row"><div class="col-lg-3">
 <p>Abels Carpet Cleaning</p>
-</div><div class="col-lg-3"><p><a class="z714f2005962147a0539a67b67ce97481" href="https://hobart-cleaning-services.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="z714f2005962147a0539a67b67ce97481" href="https://hobart-cleaning-services.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="z714f2005962147a0539a67b67ce97481" href="https://hobart-cleaning-services.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+</div><div class="col-lg-3"><p><a class="b3168f13d74f8f95f90f5ee3e402b5f24" href="https://hobart-cleaning-services.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="b3168f13d74f8f95f90f5ee3e402b5f24" href="https://hobart-cleaning-services.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="b3168f13d74f8f95f90f5ee3e402b5f24" href="https://hobart-cleaning-services.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 <p><img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://hobart-cleaning-services.netlify.app/.html"></p>
 </p>
 </div></div>
